@@ -1,5 +1,6 @@
 import os
 
+
 def obter_numero():
     return float()(input("Digite um número: "))
 
